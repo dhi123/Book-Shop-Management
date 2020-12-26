@@ -39,8 +39,12 @@ public class BillTest {
         //sixth comment
 		//**********************************
         //seven comment
+<<<<<<< HEAD
 
 		//**********************************
+=======
+        //##################################
+>>>>>>> refs/remotes/origin/Demo12
 		//not negative check
 		//fail("Not yet implemented");
 		 assertEquals(720,c.calcBill());
