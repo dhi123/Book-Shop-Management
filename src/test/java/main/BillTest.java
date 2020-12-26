@@ -30,6 +30,8 @@ public class BillTest {
         c.updateCart(s.itemAvailable[0], 5);
         c.updateCart(s.itemAvailable[1], 6);
 		
+//        c.updateCart(s.itemAvailable[0], 5);
+//        c.updateCart(s.itemAvailable[1], 6);
 		
 		 
 		
