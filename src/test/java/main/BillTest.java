@@ -37,7 +37,7 @@ public class BillTest {
       //fourth Comment	
       //fifth Comment
         
-        //sixth commit
+        //sixth comment
 		
 		//not negative check
 		//fail("Not yet implemented");
