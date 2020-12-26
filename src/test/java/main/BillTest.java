@@ -34,9 +34,7 @@ public class BillTest {
 //        c.updateCart(s.itemAvailable[1], 6);
 		
 //Third Comment	
-      //fourth Comment	
-      //fifth Comment	
-		
+   		
 		//not negative check
 		//fail("Not yet implemented");
 		 assertEquals(720,c.calcBill());
